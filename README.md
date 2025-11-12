@@ -1,4 +1,4 @@
-# Clike-Complier
+# CLike-Complier
 
 ## Overview
 This project implements a simple **one-pass compiler** for a C-like programming language.  

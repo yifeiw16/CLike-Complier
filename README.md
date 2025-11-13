@@ -42,10 +42,6 @@ The compiler performs a complete end-to-end compilation process, including:
 6. **Target Code Generation** – Converts intermediate code into **MIPS assembly**, managing registers and stack frames.
 
 
-## Notes
-The project aims to provide a clear and modular implementation of a compiler pipeline, helping students understand the design and logic behind each stage of compilation.
-
-
 ## Example
 ```bash
 # Example usage

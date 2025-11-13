@@ -1,4 +1,5 @@
 # CLike-Complier
+A final project for the Principles of Compiler course at Tongji University (2024).
 
 ## Overview
 This project implements a simple **one-pass compiler** for a C-like programming language.  
